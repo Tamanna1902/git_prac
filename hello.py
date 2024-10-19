@@ -1,2 +1,2 @@
 print("hello")
-print("im lua")
+print("im lua1")
